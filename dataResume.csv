@@ -1,0 +1,11 @@
+,feature,type
+0,carat,numeric
+1,depth,numeric
+2,table,numeric
+3,x,numeric
+4,y,numeric
+5,z,numeric
+0,cut,numeric
+1,color,numeric
+2,clarity,numeric
+0,price,target
